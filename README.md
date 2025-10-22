@@ -8,9 +8,6 @@ This repository provides reference **data-processing pipelines and examples** fo
 
 The workbenches directory also provides a guide on how to create a custom [workbench image](https://github.com/opendatahub-io-contrib/workbench-images) to run Docling and the example notebooks in this repository.
 
-
-
-
 ## 📦 Repository Structure
 
 ```bash
